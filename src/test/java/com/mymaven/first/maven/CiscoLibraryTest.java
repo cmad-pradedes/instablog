@@ -47,4 +47,9 @@ public class CiscoLibraryTest extends TestCase {
 			fail();
 		}
 	}
+	
+	@Test
+	public void testadd() {
+		System.out.println("KJust another test");
+	}
 }
