@@ -49,7 +49,7 @@ public class CiscoLibraryTest extends TestCase {
 	}
 	
 	@Test
-	public void testadd() {
+	public void testadd_1() {
 		System.out.println("KJust another test");
 	}
 }
