@@ -1,3 +1,3 @@
 FROM tomcat:latest
-ADD target/*.war /usr/local/tomcat/webapps/firstrest-0.0.1-snapshot.war
+ADD target/*.war /usr/local/tomcat/webapps/cmad.war
 ADD setenv.sh /usr/local/tomcat/bin/setenv.sh
